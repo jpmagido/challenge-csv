@@ -5,8 +5,8 @@
 If you did well in the first step, you should now have created an OO algorithm capable of parsing & rendering CSV files into Hashes.  
 You now need to implement it in a Rails app.  
 
-**Ruby 3.0.X**  
-**Rails 6.1.X**  
+`Ruby 3.0.X`  
+`Rails 6.1.X`  
 
 ----------
 
