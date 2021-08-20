@@ -1,5 +1,6 @@
-# Bienvenue dans la 2e étage du test
 # Merci de créer un repo privé. NE PAS FORK la branche
+
+# Welcome back in our test, it's time for step 2 !
 
 If you did well in the first step, you should now have created an OO algorithm capable of parsing & rendering CSV files into Hashes.  
 You now need to implement it in a Rails app.  
