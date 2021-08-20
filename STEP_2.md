@@ -1,4 +1,4 @@
-# Merci de créer un repo privé. NE PAS FORK la branche
+# Please create a PRIVATE repository. Don't fork
 
 # Welcome back in our test, it's time for step 2 !
 
