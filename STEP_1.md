@@ -1,6 +1,8 @@
 # dev_workplace_OO. 
 
-# Bienvenue, vous êtes à la première étape de test.
+# Merci de créer un repo privé. NE PAS FORK la branche  
+
+# Bienvenue, vous êtes à la première étape de test.  
 
 Required:  
 Ruby knowledge  
@@ -31,6 +33,4 @@ You need to parse each file and return data in Hash format printed in the consol
 
 
 As a matter of fact, we like specs, feel free to add some  
-
-
-
+We want to see .git in your repo :)
