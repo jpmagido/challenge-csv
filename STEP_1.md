@@ -4,6 +4,8 @@
 
 # Welcome on the first step, enjoy yourself :)  
 
+`Ruby 3.0.X`  
+
 Required:  
 Ruby knowledge  
 
