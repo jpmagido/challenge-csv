@@ -33,4 +33,4 @@ You need to parse each file and return data in Hash format printed in the consol
 
 
 As a matter of fact, we like specs, feel free to add some  
-We want to see .git in your repo :)
+Dont forget to include your git file: `.git` in your repo :)
