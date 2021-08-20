@@ -1,8 +1,8 @@
 # dev_workplace_OO. 
 
-# Merci de créer un repo privé. NE PAS FORK la branche  
+# Please create a PRIVATE repository. Don't fork  
 
-# Bienvenue, vous êtes à la première étape de test.  
+# Welcome on the first step, enjoy yourself :)  
 
 Required:  
 Ruby knowledge  
