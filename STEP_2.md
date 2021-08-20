@@ -1,4 +1,5 @@
 # Bienvenue dans la 2e étage du test
+# Merci de créer un repo privé. NE PAS FORK la branche
 
 If you did well in the first step, you should now have created an OO algorithm capable of parsing & rendering CSV files into Hashes.  
 You now need to implement it in a Rails app.  
@@ -33,3 +34,4 @@ Forms: New, Edit
 You shouldn't spend more than a week for STEP 1 & 2  
 This repository's purpose is learning ruby and it's a tool for us to acknowledge your determination & skills  
 
+Dont forget to include your git file: `.git` in your repo :)
