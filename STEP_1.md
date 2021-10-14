@@ -44,12 +44,6 @@ my_repo
     |-- csv1  
     |-- csv2  
     |-- csv3  
-  |-- spec  
-    |--lib  
-      |-- parser1_spec  
-      |-- parser2_spec  
-      |-- parser3_spec  
-    |-- spec_helper  
   |-- .git  
   |-- Gemfile  
  
