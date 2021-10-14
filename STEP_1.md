@@ -34,25 +34,25 @@ You need to parse each file and return data in Hash format printed in the consol
 ::Parser::File3.new  
 
 Your repository must look like: 
-
-my_repo
-  |-- lib
-    |-- parser1
-    |-- parser2
-    |-- parser3  
-  |-- db
-    |-- csv1
-    |-- csv2
-    |-- csv3
-  |-- spec
-    |--lib
-      |-- parser1_spec
-      |-- parser2_spec
-      |-- parser3_spec
-    |-- spec_helper
-  |-- .git
-  |-- Gemfile
+```
+my_repo  
+  |-- lib  
+    |-- parser1  
+    |-- parser2  
+    |-- parser3    
+  |-- db  
+    |-- csv1  
+    |-- csv2  
+    |-- csv3  
+  |-- spec  
+    |--lib  
+      |-- parser1_spec  
+      |-- parser2_spec  
+      |-- parser3_spec  
+    |-- spec_helper  
+  |-- .git  
+  |-- Gemfile  
  
-
+```
 As a matter of fact, we like specs, feel free to add some  
 Dont forget to include your git file: `.git` in your repo :)
