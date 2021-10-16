@@ -33,7 +33,7 @@ You need to parse each file and return data in Hash format printed in the consol
 ::Parser::File2.new  
 ::Parser::File3.new  
 
-Your repository must look like: 
+Your repository can look like:  
 ```
 my_repo  
   |-- lib  
@@ -44,9 +44,13 @@ my_repo
     |-- csv1  
     |-- csv2  
     |-- csv3  
+  |-- bin
+    |-- print_in_console.rb
   |-- .git  
   |-- Gemfile  
  
 ```
+But you are free to use your own architecture.  
+
 As a matter of fact, we like specs, feel free to add some  
 Dont forget to include your git file: `.git` in your repo :)
